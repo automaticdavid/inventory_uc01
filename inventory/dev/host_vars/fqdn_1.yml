@@ -1,0 +1,5 @@
+my_var: my_value
+my_dict:
+  my_key_1: my_value
+  my_key_2: my_value
+  
